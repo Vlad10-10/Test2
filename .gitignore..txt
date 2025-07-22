@@ -1,2 +1,0 @@
-index2.txt
-index 3.txt
